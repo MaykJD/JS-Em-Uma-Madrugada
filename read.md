@@ -16,3 +16,12 @@
 
 ---
 
+2. **Comandos basicos no Console do navegador**
+
+~~~JavaScript
+document.body.innerHTML = "<h1>Hoje e dia " + dia.getDate() + "/" + dia.getMonth() + "/" + dia.getFullYear() + "</h1>";
+~~~
+
+* Da pra escrever ou InLine(No html) ou Separado em outro arquivo
+* Se quer que o conteudo renderize antes da pagina ser renderizada coloca no Head, se não se coloca so Body
+* No BODY o script atua em elementos visualização da pagina
