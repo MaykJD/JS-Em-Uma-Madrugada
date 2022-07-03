@@ -66,3 +66,9 @@ Array -> var array; -> array = [1, 2, 3]**
 * *Slice*: Copy the array 
 * *indexOF*: procura algo após um indice especificado !
 * *Join*: Junta os valores dentro ded um array e transforma em string separada por virgula
+
+5. **Funçoes é Objetos**
+* Funçoes nomeadas -> Quando chamamos
+* funçoes anonimas -> Roda 1 vez ou é desencadeada pro alguma coisa
+* IIFE -> No momento em que o navegador as encontra
+* **ISODD**
